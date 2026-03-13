@@ -20,12 +20,12 @@ A lightweight, containerized prompt routing system that classifies user intent a
 
 ## 📋 Prerequisites
 
-| Requirement | Purpose | Link |
-|-------------|---------|------|
-| [Docker](https://www.docker.com/products/docker-desktop/) | Containerized run | ✅ Recommended |
-| [Python 3.10+](https://www.python.org/) | Local development | Alternative |
-| [Ollama](https://ollama.com/) | Local LLM inference | Required |
-| 4GBHere's a complete, polished README.md in full Markdown format for your LLM-Powered Prompt Router project:
+| Requirement | Purpose |
+|-------------|---------|
+| [Docker](https://www.docker.com/products/docker-desktop/) | Containerized run |
+| [Python 3.10+](https://www.python.org/) | Local development |
+| [Ollama](https://ollama.com/) | Local LLM inference |
+
 
 ```markdown
 # LLM-Powered Prompt Router
